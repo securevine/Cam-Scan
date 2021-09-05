@@ -1,6 +1,7 @@
 # Cam-Scan
 
-![Screenshot from 2021-08-02 05-55-49](https://user-images.githubusercontent.com/54572947/127843607-bfceeb77-52da-4d90-b686-a04d992be963.png)
+<img width="657" alt="Screenshot 2021-09-05 at 9 58 43 PM" src="https://user-images.githubusercontent.com/90141144/132134218-df2271c5-c7b3-4aa4-9343-2bcee1346919.png">
+
 
 
 # About
