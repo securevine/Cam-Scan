@@ -7,7 +7,7 @@
 
 
 # About
-* Runs massscan on the input file containg ips or subnets
+* Runs massscan on the input file containing ips or subnets
 * Creates a file with desired port with masscan and send it to cameradar to find cameras
 * After getting cameras, it creates a list of cameras urls and send it to take screenshots
  
