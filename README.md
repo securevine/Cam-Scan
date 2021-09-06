@@ -1,6 +1,7 @@
 # Cam-Scan
 
-<img width="667" alt="Screenshot 2021-09-06 at 6 32 02 PM" src="https://user-images.githubusercontent.com/90141144/132221799-c74c5ecc-3cb4-4fa6-888f-2297759da12e.png">
+![Screenshot 2021-09-06 at 6 32 02 PM](https://user-images.githubusercontent.com/90141144/132223293-8bfa5633-8672-41db-a302-03e7384ad963.png)
+
 
 
 
@@ -32,15 +33,14 @@ Save ip/subnets list in a single file and run the following command
 ```python cam-scan.py iplist 10```
 
 # Output Result
-### Created separate XML and HTML folders
+### Created Screenshots folder, url and rtsp-url file
+
+<img width="582" alt="output-folder" src="https://user-images.githubusercontent.com/90141144/132224303-131fc655-4920-48df-8655-e3517bce9a9a.png">
 
 
+### Inside Screenshots folder
 
-### File Names
-
-
-
-### HTML result displayed in browser
+<img width="589" alt="Screenshots-folder" src="https://user-images.githubusercontent.com/90141144/132225299-33e5ad33-f38a-4670-ab22-d9da45040e01.png">
 
 
 
